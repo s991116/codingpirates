@@ -1,0 +1,2 @@
+Arduino libaries should (for Windows) be imported using Arduino IDE or 
+copied to C:\Users\USERNAME\Documents\Arduino\libraries\
